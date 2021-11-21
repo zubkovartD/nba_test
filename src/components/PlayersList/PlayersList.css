@@ -1,0 +1,16 @@
+.initials {
+  width: 75px;
+  height: 75px;
+  color: #1D0053;
+  display: inline-block;
+}
+.initials-value {
+  font-size: 30px;
+}
+.fullname:hover{
+  cursor: pointer;
+  color: #652AD3;
+}
+.player {
+  width: 250px;
+}

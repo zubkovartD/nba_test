@@ -1,0 +1,11 @@
+.th:hover {
+  color: #1D0053;
+}
+.east {
+  background-color: #DAF5EE;
+  color: #1FAD87
+}
+.west {
+  background-color: #FFEAE3;
+  color: #E64A18;
+}
